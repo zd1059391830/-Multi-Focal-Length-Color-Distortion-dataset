@@ -34,4 +34,4 @@ Due to project-related restrictions, the full dataset, source code, and model we
 
 For questions about the demo program or dataset usage, please contact the authors.
 
-*6.3-6.7较忙碌，6.8开始陆续补充该项目研究过程中尝试过的其它方法，以及项目使用的exe程序，以及数据集。*
+**Due to a busy schedule from June 3 to June 7, additional materials will be gradually updated starting from June 8. These updates will include other methods explored during the research process, the executable program used in the project, and the corresponding dataset.**
