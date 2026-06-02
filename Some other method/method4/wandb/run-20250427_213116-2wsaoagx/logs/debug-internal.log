@@ -1,0 +1,15 @@
+{"time":"2025-04-27T21:31:16.7408405+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"wandb\\run-20250427_213116-2wsaoagx\\logs\\debug-core.log"}
+{"time":"2025-04-27T21:31:17.5767506+08:00","level":"INFO","msg":"created new stream","id":"2wsaoagx"}
+{"time":"2025-04-27T21:31:17.5767506+08:00","level":"INFO","msg":"stream: started","id":"2wsaoagx"}
+{"time":"2025-04-27T21:31:17.5767506+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"2wsaoagx"}
+{"time":"2025-04-27T21:31:17.5767506+08:00","level":"INFO","msg":"handler: started","stream_id":"2wsaoagx"}
+{"time":"2025-04-27T21:31:17.5767506+08:00","level":"INFO","msg":"sender: started","stream_id":"2wsaoagx"}
+{"time":"2025-04-27T21:31:18.9908981+08:00","level":"INFO","msg":"stream: closing","id":"2wsaoagx"}
+{"time":"2025-04-27T21:31:18.9908981+08:00","level":"ERROR","msg":"sender: upsertConfig: RunRecord is nil"}
+{"time":"2025-04-27T21:31:19.4009517+08:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-04-27T21:31:19.4009517+08:00","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404: {\"data\":{\"createRunFiles\":null},\"errors\":[{\"message\":\"project /color-transfer not found during createRunFiles\",\"path\":[\"createRunFiles\"]}]}"}
+{"time":"2025-04-27T21:31:19.4015163+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-27T21:31:19.4015163+08:00","level":"INFO","msg":"handler: closed","stream_id":"2wsaoagx"}
+{"time":"2025-04-27T21:31:19.4015163+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"2wsaoagx"}
+{"time":"2025-04-27T21:31:19.4015163+08:00","level":"INFO","msg":"sender: closed","stream_id":"2wsaoagx"}
+{"time":"2025-04-27T21:31:19.4015163+08:00","level":"INFO","msg":"stream: closed","id":"2wsaoagx"}
