@@ -1,0 +1,14 @@
+opencv-python
+scikit-image
+tqdm
+matplotlib
+numpy
+scipy
+torch
+kornia
+pytorch_lightning[extra]
+torchvision
+pillow
+wandb
+piq
+segmentation-models-pytorch
