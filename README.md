@@ -47,13 +47,13 @@ These results can be used to visually verify whether the demo program correctly 
 The 1x and 3x images are matched by file name. For example, if the selected 1x image is:
 
 ```text
-Data/Cutting/rewhite/test/1x/2.png
+Data/1x/2.png
 ```
 
 the program will automatically search for the corresponding 3x image:
 
 ```text
-Data/Cutting/rewhite/test/3x/2.png
+Data/3x/2.png
 ```
 
 Therefore, please keep the relative folder structure unchanged:
