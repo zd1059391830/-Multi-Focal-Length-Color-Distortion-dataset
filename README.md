@@ -16,8 +16,8 @@ Data/
 The `Data` folder contains example image pairs organized by focal length. The 1x images and 3x images should have the same file names and be stored in corresponding folders, for example:
 
 ```text
-Data/Cutting/rewhite/test/1x/2.png
-Data/Cutting/rewhite/test/3x/2.png
+Data/1x/2.png
+Data/3x/2.png
 ```
 
 ## How to Use
@@ -60,17 +60,14 @@ Therefore, please keep the relative folder structure unchanged:
 
 ```text
 Data/
-└── Cutting/
-    └── rewhite/
-        └── test/
-            ├── 1x/
-            │   ├── 1.png
-            │   ├── 2.png
-            │   └── ...
-            └── 3x/
-                ├── 1.png
-                ├── 2.png
-                └── ...
+  ├── 1x/
+  │   ├── 1.png
+  │   ├── 2.png
+  │   └── ...
+  └── 3x/
+      ├── 1.png
+      ├── 2.png
+      └── ...
 ```
 
 If the corresponding 3x image is not found, the program will show a missing-image message.
