@@ -1,0 +1,2 @@
+demo.exe filter=lfs diff=lfs merge=lfs -text
+_internal/** filter=lfs diff=lfs merge=lfs -text
