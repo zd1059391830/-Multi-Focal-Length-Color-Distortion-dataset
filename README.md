@@ -10,6 +10,7 @@ Please download the following files/folders:
 
 ```text
 demo.exe
+_internal/
 Data/
 ```
 
