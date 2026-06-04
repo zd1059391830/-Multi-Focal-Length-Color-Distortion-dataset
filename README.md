@@ -6,7 +6,11 @@ The uploaded demo is intended for testing the basic workflow, including loading 
 
 ## Files
 
-Please download the following files/folders:
+Please download the following files/folders via this link:
+
+```text
+https://pan.baidu.com/s/1OrIPgWLdNcVKeB7VpwP_Wg?pwd=y418
+```
 
 ```text
 demo.exe
